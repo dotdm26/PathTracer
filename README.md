@@ -1,7 +1,7 @@
 A path tracer program developed in C++, based on the Ray Tracing in One Weekend guide by Peter Shirley: https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 Originally a part of a bigger group project from Aalto University's C++ course (Sep - Dec 2023). All personal contribution was taken from the project and reuploaded here. 
-The majority of the program was developed using pure C++, although the SFML library was used to draw and export the image.
+The majority of the program was developed using plain C++ & STL, although the SFML library was used to draw and export the image.
 
 ![image](https://github.com/dotdm26/PathTracer/assets/56063151/bcfadf56-c2d2-4998-8a09-18612b147d13)
 
